@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zahra</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+<img align="right" alt="coding" width="400" src"![image](https://user-images.githubusercontent.com/132201602/235351539-292dcf7d-cd3b-4f7b-8463-acbea2e1afd6.png)
+">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahrahat&label=Profile%20views&color=0e75b6&style=flat" alt="zahrahat" /> </p>
 
 <h3 align="left">Connect with me:</h3>
