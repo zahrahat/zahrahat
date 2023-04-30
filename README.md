@@ -1,4 +1,4 @@
-![logo]([http](https://github.com/zahrahat/zahrahat/blob/main/Github_background1.jpg))
+![logo](https://github.com/zahrahat/zahrahat/blob/main/Github_background1.jpg)
 <h1 align="center">Hi 👋, I'm Zahra</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
